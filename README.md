@@ -37,29 +37,17 @@ Total Summary:
 
 ![Suspension Coil Total Summary](https://github.com/flowersmichael/MechaCar_Statistical_Analysis/blob/main/Screenshots/Suspension%20Coil%20Total%20Summary.png)
 
-Lot Summary:
+Individual Lot Summary:
 
 ![Suspension Coil Lot Summary](https://github.com/flowersmichael/MechaCar_Statistical_Analysis/blob/main/Screenshots/Suspension%20Coil%20Lot%20Summary.png)
 
 
-
-
-
-
 ### Conclusions
-In the Total Lot Summary, the variance of the suspension coils is
-62.294 which meets the requirements that it cannot exceed 100
-pounds per square inch.
+
+Total Summary:
+
+In the Total Summary, the variance of the suspension coils is 62.294 which meets the requirements that it cannot exceed 100 pounds per square inch.
 
 Individual Lot Summary:
-However, in the Individual lot summary, Lot 1 and lot 2, with
-variances of 0.97959 and 7.46939 respectively, meet the
-requirement. However Lot 3 with variance of 170.28612 fails the
-requirement drastically. It is about 70% higher than the
-requirement.
 
-------------------------------------------------------------------------------------------
-Total Lot Summary:
-
-________________________________________________________
-Individual Lot Summary:
+In the Individual Lot Summary, Lots 1 and 2, with variances of 0.97959 and 7.46939, respectively, meet the requirement. Lot 3, however, with a variance of 170.28612, fails the requirement drastically. It is about 70% higher than the design specification's 100 PSI variance requirement.
