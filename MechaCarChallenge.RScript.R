@@ -16,7 +16,7 @@ lot_summary  <- Suspension_Coil_table %>% group_by(Manufacturing_Lot) %>% summar
 
 # Write an RScript using the t.test() function to determine if the PSI across all manufacturing lots
 # is statistically different from the population mean of 1,500 pounds per square inch.
-t.test(x=Suspension_Coil_table$PSI, mu=1500) # t test for all cars against 1,500 PSI
+t.test(x=Suspension_Coil_table$PSI, mu=1500) # t-test for all cars against 1,500 PSI
 
 # An RScript is written for three t-tests that compare each manufacturing lot against mean PSI of the population (10 pt)
 # create a subset for each manufacturing lot_summary
