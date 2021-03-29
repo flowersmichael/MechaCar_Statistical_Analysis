@@ -86,3 +86,17 @@ For the T-test of the third lot, here are the results:
 
 With a p-value of 0.04168, at a 0.05 significance level, the mean of 1,496.14 is indeed statistically different from the population mean and we can reject the null hypothesis at a 0.05 significance level.
 
+
+## Study Design: MechaCar vs Competition
+
+For our study of MechaCar versus competitors, we'd like to use a host of independent variables including fuel efficiency, safety rating, horsepower, and other metrics to see how they relate to resale value, or more specifically to the ratio between resale value and original purchase price.
+
+We are interested in our prototypes' resale value as we regard it as a key input to owner satisfaction. We hypothesize that our MechaCar fleet will have a significantly higher resale value to purchase price ratio. 
+
+We will not have the resale value data for MechaCar models since they are in the prototype phase. We will, however, have plenty of resale value data from our competitors. Using the independent variables discussed previously from our competitors, as well as our competitors' resale value, we can determine which variables significantly relate to resale value.
+
+The null hypothesis is that the resale value to purchase price ratio of MechaCar is the same as our competitors.
+
+Once we've determined the variables that relate to resale value, we can then use the existing MechaCar prototype data for these independent variables (such as fuel efficiency, safety rating, horsepower) to predict the resale value for the MechaCar prototypes. We can then find our ratio for MechaCar projected resale value to initial projected purchase price, and compare that to our competitors.
+
+We may also use this projected resale value information to help narrow the list of prototypes that will ultimately go into production, and even potentially influence MechaCar design and pricing decisions.
